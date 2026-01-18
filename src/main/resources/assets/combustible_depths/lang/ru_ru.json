@@ -9,5 +9,7 @@
   "subtitles.combustible_depths.ignite.charge": "Шрапнит заряжается",
   "subtitles.combustible_depths.ignite.explode": "Взрыв шрапнита",
 
+  "entity.combustible_depths.primed_ignite": "Шипящий шрапнит",
+  
   "modmenu.descriptionTranslation.combustible_depths": "Мод добавляет два новых взрывоопасных блока в Незер, делая добычу незерита более увлекательной."
 }
